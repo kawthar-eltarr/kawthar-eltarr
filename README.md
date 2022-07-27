@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning **Deep Learning**
 - 💞️ I’m looking to collaborate on **IA projects**
 
-![Kawtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltarr-kawther&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltarr-kawther&layout=compact&hide=jupyter%20notebook)](https://github.com/eltarr-kawther/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltarr-kawther&layout=compact&hide=jupyter%20notebook)](https://github.com/eltarr-kawther/github-readme-stats)
+
+![Kawtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltarr-kawther&show_icons=true&theme=radical) 
 
 
 <!---
