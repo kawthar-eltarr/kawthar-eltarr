@@ -1,4 +1,4 @@
-<h1> Hi👋 I’m Kawtar</h1>
+<h1> Hi👋 I’m Kawthar</h1>
 
 - 👀 I’m interested in **Machine Learning and IA**
 - 🌱 I’m currently learning **Deep Learning**
