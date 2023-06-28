@@ -28,4 +28,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawthar-eltarr&theme=radical&layout=compact&hide=jupyter%20notebook" />
 </div>
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=kawthar-eltarr&color=blueviolet" />
+</p>
 
