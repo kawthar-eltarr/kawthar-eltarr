@@ -12,6 +12,12 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kawthar-eltarr-94a002111/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a 
+    target="_blank" 
+    href="mailto:kawthar-eltarr@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+    </img>    
+</a>
 </p>
 
 <h1>📊 GitHub Stats</h1>
